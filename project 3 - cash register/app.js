@@ -1,3 +1,2 @@
-console.log('My cash register')
+console.log('My cash register only log should be this one')
 
-console.log('My cash register 2')
